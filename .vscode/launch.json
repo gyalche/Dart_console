@@ -6,7 +6,7 @@
   "configurations": [
     {
       "name": "console_full_project",
-      "program": "bin/ifcondition.dart",
+      "program": "bin/while_loop.dart",
       "cwd": "console_full_project",
       "request": "launch",
       "type": "dart"
